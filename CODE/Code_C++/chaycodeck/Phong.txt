@@ -1,0 +1,22 @@
+21
+1000 45.0 2 tot 1000
+P001 20.5 1200000 trong maylanh
+P002 18.0 1000000 trong quat
+P003 22.3 1500000 dathue maylanh
+P004 25.0 1800000 trong tulanh
+P005 19.5 1300000 trong quat
+P006 21.0 1400000 dathue maygiat
+P007 17.0 950000 trong quattran
+P008 30.0 2000000 dathue diehoa
+P009 16.5 900000 trong quat
+P010 23.0 1700000 trong tulanh
+P011 24.0 1600000 trong maylanh
+P012 20.0 1450000 dathue tulanh
+P013 18.5 1250000 trong quat
+P014 22.0 1550000 trong maygiat
+P015 26.5 1900000 dathue diehoa
+P016 28.0 2100000 trong maylanh
+P017 19.0 1350000 trong quat
+P018 21.5 1480000 dathue tulanh
+P019 23.0 1750000 trong maygiat
+P020 27.0 1950000 trong tulanh

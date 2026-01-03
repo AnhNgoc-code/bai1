@@ -1,0 +1,10 @@
+hello|xin chào
+world|thế giới
+computer|máy tính
+learning|học tập
+keyboard|bàn phím
+mouse|chuột
+screen|màn hình
+internet|mạng internet
+software|phần mềm
+language|ngôn ngữ

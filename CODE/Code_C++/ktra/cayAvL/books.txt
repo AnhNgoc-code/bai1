@@ -1,0 +1,10 @@
+B001|To Kill a Mockingbird|1960
+B002|1984|1949
+B003|The Great Gatsby|1925
+B004|Pride and Prejudice|1813
+B005|Moby-Dick|1851
+B006|War and Peace|1869
+B007|Crime and Punishment|1866
+B008|Harry Potter and the Sorcerer's Stone|1997
+B009|The Hobbit|1937
+B010|The Catcher in the Rye|1951
